@@ -19,7 +19,7 @@ The classifier is exposed through a Streamlit web interface, allowing a user to 
 - Enter a URL in the input box and click "Submit" to view prediction
 
 ## Dataset
-The classifier is trained on the Phishing Website Dataset from Kaggle.
+The classifier is trained on the [Phishing Website Dataset from Kaggle](https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector).
 ## Future Work
 - Try other classifiers like Random Forest, XGBoost, etc.
 - Optimize hyperparameters like K value for KNN
